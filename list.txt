@@ -1,0 +1,944 @@
+Abattoir
+Accountancy
+Acoustic Engineer
+Actuarial Consultancy
+Acupuncture
+Addressing/Circularising Services
+Adjuster
+Advertising
+Aerial Erector
+Aerial Manufacturer
+Aerial Photography
+Aerial Supplier
+Aerial Survey
+Aerospace Industry
+Agricultural Engineer
+Agricultural Produce Distribution
+Agriculture
+Air Conditioning
+Aircraft Construction
+Aircraft Maintenance
+Aircraft Repair
+Airline
+Airport Services
+Ambulance Authority
+Amusement
+Amusement Arcade
+Amusement Machine Supplier
+Animal Breeding
+Animal Feeds
+Animal Rescue Home
+Animal Training
+Anthropology
+Antique Restoration
+Antiques
+Arable Farming
+Arbitration
+Arboriculture
+Architecture
+Armed Forces - Foreign
+Armed Forces - Republic Of Ireland
+Armed Forces - USA
+Art
+Art Gallery
+Art Restoration
+Art Valuation
+Asphalt Contractor
+Assessor
+Astrology
+Astronomy
+Auction House
+Auctioneer
+Auditors
+Auxiliary Plant
+Baby Food Manufacturer
+Baby Goods Manufacturer
+Baby Goods Shop
+Bagpipe Maker
+Bakers Supplies
+Bakery
+Banking
+Barrel Makers
+Bathroom Design
+Bathroom Installation
+Beauticians
+Beauty Salon
+Bed And Breakfast - Licensed
+Bed And Breakfast - Unlicensed
+Betting Shop
+Bicycle Manufacturer
+Bingo Hall
+Blacksmith
+Blast Cleaning
+Blind Installation
+Blind Manufacturer
+Boarding Kennel
+Boat Builder
+Boat Hirer
+Bookmaker - Off Course
+Bookmaker - On Course
+Booksellers
+Bottled Gas Supplier
+Brass Foundry
+Breakdown Recovery
+Breeding
+Brewery
+Brewery Transport
+Brick Manufacturer
+Brick Supplier
+British Army
+Broadcasting
+Builder
+Builders Merchant
+Building Society
+Building Trade
+Business Consultancy
+Business Systems
+Business Training
+Butchers
+Cabinet Maker
+Cable Manufacturer
+Cable TV Installation
+Cafe
+Camp Site
+Candle Dealer
+Car Accessory Dealer
+Car Delivery
+Car Hire
+Car Park Operator
+Car Sales
+Car Valeting
+Caravan Hirer
+Caravan Park - Residential
+Caravan Sales
+Caravan Service
+Caravan Site
+Carpentry
+Carpet Fitting
+Cartography
+Cash &amp; Carry
+Casino
+Cask Maker
+Catalogue Co-ordination
+Catalogue Distribution
+Catering - Licensed
+Catering - Unlicensed
+Cattery
+Ceiling Contractor
+Cement Suppliers
+Central Heating Services
+Charity
+Chartering
+Chemical Industry
+Chemical Manufacturer
+Chemist Shop
+Child Minding
+Childrens Home
+Childrens Panel
+Chimney Sweeping
+Chiropody
+Choreography
+Church
+Church Army
+Cinema
+Circus
+Citizens Advice Bureau
+Civil Aviation
+Civil Engineering
+Civil Service
+Cleaning Services
+Clerical Services
+Clock &amp; Watch Manufacturer
+Clock &amp; Watch Repair
+Clothing Manufacturer
+Clothing Trade
+Club
+Coach Hirer
+Coachbuilder
+Coal Industry
+Coal Merchant
+Coffee Shop
+Coin &amp; Medal Dealer
+Cold Store
+Commissioners For Oaths
+Commodities
+Commodity Brokerage
+Communications
+Community Service
+Computer Aided Design
+Computer Distribution
+Computer Sales
+Computer Services
+Computer Supplies
+Computers
+Computers - Hardware
+Computers - Software
+Concrete Supplier
+Confectionery Manufacturer
+Construction Industry
+Consulting Engineering
+Contact Lens Manufacturer
+Container Hire
+Conveyancers
+Corporate Hospitality
+Cosmetics
+Costumiers
+Cotton Mill
+County Court
+Courier Services
+Crane Hire
+Crane Manufacturer
+Crop Spraying
+Customs and Excise
+Cutlery Craftsmen
+Cycle Hire
+Cycle Shop
+Dairy
+Dairy Farming
+Dance Band
+Data Processing
+Data Protection
+Dating Agency
+Day Centre
+Debt Collection
+Decorating
+Delicatessen
+Delivery Service
+Demolition
+Dentistry
+Department Store
+Design Consultancy
+Desktop Publishing Services
+Despatch Services
+Discotheque
+Distillers
+Distribution
+DIY Store
+Dock Authority
+Domestic Appliance Maintenance
+Domestic Service
+Double Glazing
+Drainage
+Drapery
+Driving Authority
+Driving Instruction
+Driving School
+Dry Cleaning
+Dry Lining
+Earth Removers
+Ecology
+Education
+Education - Private
+Education - State
+Effluent Disposal
+Egg Merchants
+Electrical Appliance Manufacturer
+Electrical Contractors
+Electrical Goods Consultancy
+Electricity Industry
+Electronics
+Embossers
+Emergency Services
+Employment Agency
+Energy Conservation
+Energy Consultancy
+Energy Supplier
+Engineering
+Engineering Consultants
+Engraving
+Entertainment
+Environmental Health
+Estate Agency
+Excavation
+Exhibition Centre
+Exhibition Organisers
+Export
+Export Agency
+Exporter
+Fabric Manufacturer
+Fabrications
+Fairground
+Falconry
+Fancy Goods
+Fancy Goods Importer
+Farming
+Fascia Board Installer
+Fashion
+Fashion Design
+Fashion House
+Fast Food
+Fencing Manufacturer
+Ferry Service
+Fertilizer Manufacturer
+Fibre Glass Manufacturer
+Filling Station
+Film Manufacturing
+Film Processing
+Film Production
+Finance Company
+Financial Advisors
+Financial Services
+Fire Protection
+Fire Service
+Fireplace Installer
+Fireplace Manufacturer
+Fireworks/Pyrotechnics
+Fish &amp; Chip Shop
+Fish Farm
+Fish Merchants
+Fisheries
+Fishing
+Fishing Rights
+Fishmonger
+Fitted Bedroom Installer
+Fitted Kitchen Installer
+Flooring Construction
+Flooring Installer
+Flooring Services
+Florists
+Flying School
+Food Exporter
+Food Importer
+Food Manufacturer
+Food Production
+Food Store
+Football Pools
+Forestry
+Fostering/Adoption Agency
+Foundry
+Freezer Centre
+Freight
+Freight Agents
+Freight Forwarders
+French Polishing
+Friendly Society
+Frozen Food Distribution
+Fuel Distribution
+Fuel Merchant
+Funeral Director
+Funfair
+Fur Trade
+Furniture Installer
+Furniture Manufacturer
+Furniture Remover
+Furniture Repair
+Furniture Sales
+Furniture Store
+Furniture Storer
+Furriers
+Gambling
+Game Breeders
+Garage
+Garden Centre
+Gardening
+Gas - Offshore
+Gas Exploration
+Gas Industry
+Genealogy
+General Dealer
+General Store
+Gift Shop
+Glass Manufacturer
+Glaziers
+Golf Club
+Government - Foreign
+Government - Republic Of Ireland
+Government - UK
+Gown Trade
+Grain Merchants
+Grain Mill
+Graphic Design
+Graphology
+Greengrocer
+Greeting Card Manufacturer
+Greeting Card Sales
+Greyhound Racing
+Greyhounds
+Grit Blasters
+Grocer
+Ground Maintenance
+Guest House - Licensed
+Guest House - Unlicensed
+Guttering Installer
+Gymnasium
+Hairdressing
+Harbour Authority
+Harbour Board
+Hardware Manufacturer
+Hardware Retailer
+Haulage Contractors
+Hazardous Chemical Transport
+Health Authority
+Health Care - NHS
+Health Care - Private
+Health Centre
+Health Club
+Health Products Distribution
+Heating Consultant
+Heating Services
+Hire Purchase
+HM Forces
+Hobby Shop
+Holiday Accommodation
+Holiday Camp
+Holiday Centre
+Home Help Services
+Honey Producer
+Horses
+Horticulture
+Hospital
+Hotel - Licensed
+Hotel - Unlicensed
+House Builders
+Housing Association
+Housing Developers
+Hypermarket
+Ice Cream
+Ice Cream Manufacturer
+Ice Cream Shop
+Ice Merchant
+Ice Rink
+Import
+Importers
+Industrial Building Manufacturer
+Industrial Relations
+Information Technology
+Inland Revenue
+Inn
+Inspection Services
+Instant Print Services
+Insulation Engineers
+Insurance
+Insurance Advisor
+Insurance Broker
+Insurance Company
+Insurance Consultant
+Interior Design
+Investment
+Iron Foundry
+Ironing Services
+Ironmonger
+Jam &amp; Preserve Manufacturer
+Jewellers
+Jewellery
+Jewellery Manufacturer
+Joinery
+Keep Fit
+Kennels
+Kitchen Equipment Manufacturer
+Kitchen Manufacturer
+Kitchen Planners
+Knitwear Manufacturer
+Laboratory
+Ladder Manufacturer
+Land Clearance
+Land Draining
+Landscaping
+Lathe Manufacturer
+Launderette
+Laundry
+Law and Order
+Lawnmowers &amp; Garden Machinery
+Lawyers
+Leasing Company
+Legal System
+Leisure Centre
+Leisure Goods
+Lens Manufacturer
+Library
+Life Assurance
+Lift Installers
+Lift Maintenance
+Lighting
+Lighting Installers
+Linen Hire
+Livery Stables
+Livestock Carriers
+Livestock Farming
+Local Government
+Local Government Authority
+Local Newspaper
+Locksmiths
+Loft Insulation
+Log And Firewood
+Loss Adjusting
+LPG Suppliers
+Machine Tool Supplier
+Machinery Dealers
+Mail Order
+Mail Order Supplier
+Maintenance Services
+Management Consultancy
+Management Training
+Mantle Trade
+Manufacturing
+Manufacturing Chemist
+Marina
+Market Garden
+Market Gardeners
+Market Research
+Market Trading
+Marketing
+Marriage Guidance
+Material Manufacturer
+Mattress Manufacturer
+Meat Market
+Meat Products
+Mechanical Handling
+Medical research
+Medical Suppliers
+Meditation
+Merchant Navy
+Metal Founders
+Metal Treatment
+Microfilm Services
+Military Police
+Milk Delivery
+Mining
+Mobile Food
+Mobile Shop
+Model Manufacturer
+Moneylenders
+Monumental Masons
+Motor Factor/Parts
+Motor Manufacturer
+Motor Organisation
+Motor Trade
+Motorcar Racing
+Motorcycle Racing
+Motorcycle Trade
+Motoring Organisation
+Museums
+Music Publisher
+Music Retailer
+Music School
+Musical Instrument Manufacturer
+National Newspaper
+National Trust
+National Trust For Scotland
+Newsagents
+Newspaper Wholesaler
+Night Club
+Noise Control
+None - Household Duties
+None - Not Employed due to Disability
+None - Retired
+None - Student
+None - Unemployed
+Not In Employment
+Notaries
+Nuclear Energy
+Nursery
+Nursery School
+Nursing Home
+Oceanographic Survey
+Off Licence
+Off Licence Store
+Office Equipment Repairer
+Office Equipment Supplier
+Office Fitters
+Office Services
+Oil - Offshore
+Oil Company
+Oil Distribution
+Oil Exploration
+Oil Terminal Operator
+Opinion Polls
+Optical Services
+Optician
+Optometrist
+Orchestra
+Organ Building
+Outdoor Pursuits
+Overall Hire &amp; Maintenance
+Packers And Storers
+Paint Manufacturer
+Paint Spraying
+Painting
+Painting and Decorating
+Painting Contractor
+Panel Beating
+Paper Manufacturer
+Paperbag And Sack Manufacturer
+Parcel Delivery
+Partition Erector
+Passenger Transport
+Patent Office
+Pawnbroker
+Performing Arts
+Personnel Consultancy
+Pest And Vermin Control
+Pet Feed
+Pet Services
+Pet Shop
+Petrochemical Industry
+Petrol Pump Maintenance
+Petrol Station
+Pharmaceutical Supplier
+Pharmacy
+Photo Engraving
+Photo Processing And Printing
+Photographic Equipment Repairs
+Photography
+Physiotherapy
+Piano Sales And Repairs
+Piano Tuning
+Picture Framing
+Pig Farming
+Pipe Cleaning
+Pizza Delivery
+Planning Consultancy
+Plant Hire
+Plant Manufacturer
+Plant Sales
+Plastic Sheeting Manufacturer
+Plastics Manufacturer
+Playground Equipment Manufacturer
+Plumbers Merchant
+Plumbing
+Plumbing &amp; Heating
+Political Consultancy
+Political Party
+Pollution Control
+Polytechnic
+Pony Trap
+Pool Table Manufacturer
+Pool Table Repairer
+Pool Table Sales
+Pop Group
+Port Authority
+Portable Building
+Post Office
+Potato Merchant
+Pottery
+Poultry Farm
+Poultry Farming
+Pre-Stressed Concrete Manufacturer
+Presentation Materials Supplier
+Press Cutting Agency
+Pressure Cleaning
+Print Type Services
+Printer
+Printing
+Printing Engineering Services
+Prison Service
+Private Hire
+Private Investigation
+Private School
+Process Engraving
+Produce Importers
+Project Management
+Promotional Consultancy
+Property Consultants
+Property Developers
+Property Letting
+Property Owner
+Property Services
+Protective Clothing Manufacturer
+Protective Clothing Supplier
+Psychiatry
+Psychology
+Psychotherapy
+Public Address System Supplier
+Public Hire
+Public Hirer
+Public House
+Public Relation Consultancy
+Public School
+Public Transport
+Publishing
+Publishing - Local Press
+Publishing - National Press
+Quality Assurance
+Quantity Surveyors
+Quarry
+Quarrying
+Race Course
+Racehorses
+Racing Or Rallies
+Racing Stable
+Radiator Repairs
+Radiator Sales
+Radio Production
+Radiography
+Rag Merchants
+Railway
+Rating And Valuation
+Record Company
+Record Shop
+Recording Services
+Recovery Services
+Recruitment Agency
+Recycling
+Refrigeration
+Refuse Collection
+Refuse Treatment
+Reinforced Concrete Manufacturer
+Religion
+Removal Contractors
+Remover And Storer
+Rescue Services
+Residential Home
+Restaurant - Licensed
+Restaurant - Unlicensed
+Retailer - Mobile
+Retailing
+Riding School
+Ring Sports
+River Authority
+Road Haulage
+Road Repair
+Road Surfacing
+Robotics Manufacturer
+Roller Shutter Manufacturer
+Roofing Services
+Rope Merchant
+Roughcasters
+Royal Air Force
+Royal Mint
+Royal Navy
+RSPCA
+Rubbish Disposal
+Rubble Removers
+Rustproofing Services
+Saddlers And Harness Makers
+Safe Installation And Removal
+Safe Manufacturer
+Safety Consultancy
+Safety Equipment Supplier
+Sail Makers And Repairers
+Sailing Equipment Supplier
+Salvage
+Sample Distribution
+Sample Distributors
+Sand And Gravel Merchants
+Sand Blasters
+Satellite TV And Equipment Suppliers
+Satellite TV Installers
+Saw Sales And Repairs
+Sawmill
+Scaffolding Erection
+Scaffolding Hire
+School
+School For Performing Arts
+Scientific Research
+Scrap Disposal
+Scrap Metal Merchants
+Screen Printing
+Screenwriting
+Sculptors
+Secondhand Dealers
+Secretarial Services
+Secretarial Training
+Security Equipment
+Security Services
+Seedsmen
+Self Catering Accommodation
+Self Drive Hire
+Sewage
+Sharpening Services
+Sheet Metal Work
+Sheriff Officers
+Ship Building And Repair
+Ship Chandlery
+Ship Painting
+Shipbroking
+Shipping And Forwarding Agency
+Shipping Company
+Shipyard
+Shoe Manufacturers
+Shoe Repair
+Shoe Shop
+Shooting Rights
+Shop Fitting
+Shopping Centre
+Shot Blasters
+Shutter Manufacturer
+Sightseeing Tours Operator
+Sign Making
+Signwriting
+Site Clearance
+Site Investigation
+Skating Rink
+Ski Centre
+Skip Hire
+Skip Maintenance
+Slaughterhouse
+Slimming Distribution
+Snack Bar
+Snooker Club
+Social Club
+Social Services
+Soft Drinks Manufacturer
+Soft Drinks Supplier
+Soil Engineers
+Solar Panel Manufacturer
+Solar Panel Supplier
+Solicitors
+Sound Proofing
+Spinners
+Sports - Amateur
+Sports - Professional
+Sports - Semi Professional
+Sports Centre
+Sports Club
+Sports Club - Professional
+Sports Goods Shop
+Sports Ground
+Sports Promotion
+Sportswear Manufacturer
+Sportswear Supplier
+Stables
+Stamp Dealers
+Stamp Manufacturer
+Stamp Supplier Stationers
+State School
+Stationers
+Steel Industry
+Steel Stockholders
+Sterilizing Services
+Stockbroking
+Stonemasonry
+Street Trading
+Structural Engineering
+Studio
+Sunbed
+Supermarket
+Surveying
+Surveyors
+Suspended Ceiling Repairer
+Swimming Pool
+Tailor And Outfitter
+Take Away Food Supplier
+Tank Cleaning Services
+Tarpaulin Manufacturer
+Tarpaulin Suppliers
+Tattoo Parlour/Clinic
+Tax Consultancy
+Taxi Service
+Taxidermy
+Tea Importer
+Tea Merchant
+Tea Room
+Technical College
+Telecommunication Equipment Suppliers
+Telecommunications
+Telemarketing
+Telephone Answering Service
+Telesales
+Television
+Television Hire
+Television Production
+Television Repairer
+Television Sales
+Tent And Marquee Hirer
+Territorial Army
+Textile Manufacturer
+Thatching
+Theatre
+Theatrical Suppliers
+Theme Park
+Tilers
+Timber Importers
+Timber Merchants
+Timber Preservation
+Timeshare Operators
+Tobacco Importer
+Tobacco Manufacturer
+Tobacconist
+Tomato Grower
+Tool Hire
+Tour Operator
+Tourist Board
+Tourist Information
+Towel Supplier
+Toy And Game Manufacturer
+Toy And Game Supplier
+Trade Association
+Trade Demonstration
+Trade Union
+Trading Estate
+Trading Standards Enforcement
+Trailer Manufacturer
+Trailer Supplier
+Training Company
+Training Consultancy
+Translators
+Transport - PSV
+Transport - Road
+Travel And Tourism
+Tree Surgery
+Trinity House
+Trust Company
+Tupperware
+Turf Accountants
+TV And Radio
+TV And Video Rental
+Typewriter Services
+Tyre Dealer
+Tyre Manufacturer
+Tyre Supplier And Fitting
+Undertaker
+Underwater Inspection
+Underwriting Agency
+Uniform Manufacturer
+University
+Upholstery
+Vacuum Cleaner Repairs And Service
+Valuation
+Van And Lorry Hirer
+Vehicle Hire - Self Drive
+Vehicle Repairer
+Vehicle Transport
+Vending Machine Manufacturer
+Vending Machine Supplier
+Vending Services
+Veneering
+Venetian Blind Manufacturer
+Venetian Blind Supplier
+Ventilation
+Vermin Control
+Veterinary
+Veterinary Supplies
+Veterinary Surgeons
+Video Hire
+Video Services
+Vineyard
+Voluntary Organisation
+Wallpaper Manufacturer/Supplier
+Washing Machine Repairs And Servicing
+Waste Disposal
+Waste Paper
+Watchmaker
+Water Industry
+Water Sports Centre
+Waterproof Cover Manufacturer
+Waterproof Cover Supplier
+Weather Forecasting
+Weather Services
+Weights And Measures
+Welding
+Welfare Organisation
+Whisky Blenders
+Wholesaler
+Window Cleaning
+Wine And Spirit Merchants
+Wine Bar
+Wine Makers
+Wire Rope Manufacturer
+Wood Carving
+Wood Preservation
+Woodshavings Contractor
+Woodworking
+Woodworm And Dry Rot Control
+Woollen Goods Manufacturer
+Woollen Goods Shop
+Woollen Mill
+Wrought Iron Manufacturer
+Yacht Building
+Yacht Chandlery
+Yacht Service And Management
+Yarn Spinning
+Youth Hostel Organisation
+Youth Organisation
+Zoo Operator
